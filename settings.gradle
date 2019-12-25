@@ -1,0 +1,2 @@
+include ':app', ':casting_libs'
+rootProject.name='Casting Java Practice'

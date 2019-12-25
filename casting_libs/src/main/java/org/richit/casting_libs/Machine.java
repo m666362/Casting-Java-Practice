@@ -6,4 +6,7 @@ public class Machine {
         System.out.println("Machine started");
     }
 
+    public void engine(){
+        System.out.println("Machine engine started");
+    }
 }

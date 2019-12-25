@@ -4,8 +4,10 @@ public class Camera extends Machine {
 
     @Override
     public void start() {
+        System.out.println("@Override");
         super.start();
-        System.out.println("Camera stated");
+        System.out.println("Camera stated after machine ");
+        System.out.println();
     }
 
     public void snap(){
